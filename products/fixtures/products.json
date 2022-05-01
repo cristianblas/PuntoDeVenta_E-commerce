@@ -1,0 +1,74 @@
+[
+{
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+        "title": "Majadito",
+        "description": "Exquisito plato acompa±ado con yuca, huevo y plßtano frito",
+        "price": "15.00",
+        "slug": "majadito",
+        "image": "products/majadito.png",
+        "created_at": "2022-04-14T16:12:30.035Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+        "title": "Keperi",
+        "description": "Exquisito keperi con arroz tostado, yuca, ensalada y plßtano frito",
+        "price": "15.00",
+        "slug": "keperi",
+        "image": "products/keperi_5OaOHjc.png",
+        "created_at": "2022-04-14T16:56:34.079Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+        "title": "Locro con Presa",
+        "description": "Exquisito platillo con presa de gallina criolla y yuca",
+        "price": "15.00",
+        "slug": "locro-con-presa",
+        "image": "products/locroPRESA.png",
+        "created_at": "2022-04-14T16:57:17.433Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+        "title": "Rapi",
+        "description": "Exquisito platillo con arroz graneado y yuca",
+        "price": "15.00",
+        "slug": "rapi",
+        "image": "products/rapi.png",
+        "created_at": "2022-04-14T16:57:42.548Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+        "title": "Picante",
+        "description": "Exquisito platillo con chu±o,  papa hervida, arroz tostado y jugo de picante",
+        "price": "15.00",
+        "slug": "picante",
+        "image": "products/picante.png",
+        "created_at": "2022-04-14T17:14:04.550Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+        "title": "locro sencillo",
+        "description": "Exquisito Locro sencillo con yuca y patitas de pollo",
+        "price": "5.00",
+        "slug": "locro-sencillo",
+        "image": "products/locrosencillo.png",
+        "created_at": "2022-04-14T20:16:04.207Z"
+    }
+}
+]

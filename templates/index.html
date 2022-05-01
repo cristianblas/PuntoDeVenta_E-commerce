@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+            
+        <div class="col">
+            <h4 class="text-center"> {{ message }} </h4>
+            {% include 'products/snippets/search.html' %}
+
+            {%  include 'products/snippets/list.html' %}
+                
+
+            <!-- <img src="{% static 'images/mochila.png' %}" alt="imagen de mochila"> -->
+        </div>
+
+{% endblock %}
+
+
+
